@@ -1,4 +1,0 @@
-<br />
-<b>Warning</b>:  Unknown: failed to open stream: Permission denied in <b>Unknown</b> on line <b>0</b><br />
-<br />
-<b>Fatal error</b>:  Unknown: Failed opening required '/www/sites/swanriverlibrary.ca/index.php' (include_path='.:/usr/local/lib/php') in <b>Unknown</b> on line <b>0</b><br />
